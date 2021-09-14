@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  Webiste:
+  - apiVersion: v2
+    created: "2021-09-14T04:56:03.202374305Z"
+    digest: 4820a034ef2c5d793e5cdd7822e5a29ac57e41c23e51fd265b210b610d3e210d
+    name: Webiste
+    urls:
+    - Webiste-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-14T04:56:03.201398001Z"
