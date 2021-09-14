@@ -1,0 +1,13 @@
+namespace: default
+clusterIssuerName: letsencrypt-staging
+issuerName: ""
+issuerKind: ""
+domain: example.com
+
+servicePort: 80
+
+image: nginx:latest
+imagePullPolicy: Always
+replicas: 1
+containerPort: 80
+nonRootUser: false
